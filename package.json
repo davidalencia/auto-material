@@ -1,0 +1,26 @@
+{
+  "name": "auto-material",
+  "version": "1.0.0",
+  "description": "Open source proyect to create quick responsive web pages using materialize",
+  "main": "main.js",
+  "scripts": {
+    "start":"electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidalencia/auto-material.git"
+  },
+  "keywords": [
+    "materialize",
+    "framework",
+    "drag",
+    "and",
+    "drop"
+  ],
+  "author": "David Valencia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidalencia/auto-material/issues"
+  },
+  "homepage": "https://github.com/davidalencia/auto-material#readme"
+}
